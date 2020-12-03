@@ -1,0 +1,5 @@
+/home/marcus/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/202.8194.17/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/marcus/CLionProjects/game
+-- Found SFML 2.5.1 in /usr/lib64/cmake/SFML
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/marcus/CLionProjects/game/cmake-build-debug

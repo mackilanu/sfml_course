@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/game.dir/main.cpp.o CMakeFiles/game.dir/Window.cpp.o CMakeFiles/game.dir/Game.cpp.o  -o game  /usr/lib/libsfml-graphics.so.2.5.1 /usr/lib/libsfml-audio.so.2.5.1 /usr/lib/libsfml-window.so.2.5.1 /usr/lib/libsfml-system.so.2.5.1 
